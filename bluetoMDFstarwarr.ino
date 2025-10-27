@@ -1,5 +1,14 @@
+/*
+este programa controla dos motores para un robot, el cual utiliza un driver de motores L298N que este a su ves tiene 4 entradas
+cuenta con un buzzer como claxon y un modulo de bluetooth para poder controlarlo por el celular.
+el programa recibe por el bluetooth cierto comando para que el robot pueda avanzar hacia adelante, atras, gire a la izquierda y a la derecha, tambien si se le manda el numero 7 
+el buzzer entona la cancion de star wars.
 
+autor: ingenierIA aplicada arduino
+https://ingenieriaaplicada23.wixsite.com/appduinostore
 
+esto proyecto es para que los jovenes de México puedan conocer un poco más de la robática, electránica y programación
+*/
 
 byte IN1 =4; //MOTOR 1
 byte IN2 =5; //MOTOR 1
@@ -86,3 +95,4 @@ void loop() {
   }
     
 }
+
