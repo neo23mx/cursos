@@ -1,2 +1,2 @@
-IngenierIA aplicada arduino busca potencializar el desarrollo de proyetos de electrónica, robótica, programación y automatización electrónica en los niños y niñas, jovenes de México para que puedan tener las mismas oportunidades que todos.
-Nos estamos enfocando en niños y niñas de casas hogar, tutelares de menores, escuelas rurales, escuelas indigenas donde la ingenieria no llega hacer parte de su vida, y este proyecto busca poder llevar estas tecnologías  
+//IngenierIA aplicada arduino busca potencializar el desarrollo de proyetos de electrónica, robótica, programación y automatización electrónica en los niños y niñas, jovenes de México para que puedan tener las mismas oportunidades que todos.
+// Nos estamos enfocando en niños y niñas de casas hogar, tutelares de menores, escuelas rurales, escuelas indigenas donde la ingenieria no llega hacer parte de su vida, y este proyecto busca poder llevar estas tecnologías  
